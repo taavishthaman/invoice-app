@@ -1,1 +1,1 @@
-export const baseUrl = "http://localhost:3001";
+export const baseUrl = "https://invoice-backend-three.vercel.app";
